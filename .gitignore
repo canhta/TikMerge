@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Content without .gitkeep files
+contents/**/
+credentials/*.json
